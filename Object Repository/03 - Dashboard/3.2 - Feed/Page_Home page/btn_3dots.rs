@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_3dots</name>
+   <tag></tag>
+   <elementGuidId>b4561f25-9b99-4332-81bc-d2d0f750a74f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-ellipsis-v</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buddy_box_1000012']/div/div[3]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c7415780-e51c-49b8-b2a2-1a69a6c87164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-ellipsis-v</value>
+      <webElementGuid>663eef80-bec5-4ccc-9308-3654025cc65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buddy_box_1000012&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-3 col-xs-3 buddy-action pull-right&quot;]/span[1]/i[@class=&quot;fas fa-ellipsis-v&quot;]</value>
+      <webElementGuid>c2bfbe7a-2405-4ee6-ac8f-ef9f6238933c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.2 - Feed/Page_Home page/iframe_Self services_homePageFrame (5)</value>
+      <webElementGuid>f832ef85-377c-4263-ab6a-c6a6b5966fa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buddy_box_1000012']/div/div[3]/span/i</value>
+      <webElementGuid>b64dc7e5-00aa-4a81-831c-d6c23f2b7a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/i</value>
+      <webElementGuid>a05e4ff1-f7ed-4715-9053-1f83985590f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

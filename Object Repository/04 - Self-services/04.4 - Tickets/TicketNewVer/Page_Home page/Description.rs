@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Description</name>
+   <tag></tag>
+   <elementGuidId>834d695e-4305-454c-a017-eac5c324dd74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body.cke_editable.cke_editable_themed.cke_contents_ltr.cke_show_borders</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>bd36a248-8b78-47a7-a354-91e149e3eab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>19c6d870-8476-423a-9219-d8bfd54ffe70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cke_editable cke_editable_themed cke_contents_ltr cke_show_borders</value>
+      <webElementGuid>f64afdc7-d0b6-48ce-a8b8-858bf9495ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f5454a7c-5761-4f40-af1c-547501687739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cke_editable cke_editable_themed cke_contents_ltr cke_show_borders&quot;]</value>
+      <webElementGuid>e76e0041-7cb9-4ee4-8e70-2237bd5e6d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cke_editable cke_editable_themed cke_contents_ltr cke_show_borders&quot;]</value>
+      <webElementGuid>6d87c6a3-933e-4ead-89a9-d53abed6bbed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.4 - Tickets/TicketNewVer/Page_Home page/iframe_Press ALT 0 for help_cke_wysiwyg_frame cke_reset</value>
+      <webElementGuid>48b97042-dc24-41e5-8b7a-abffacba8492</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>506f5772-2999-4b16-a820-e85169f3e5be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = '/html[1]/body[@class=&quot;cke_editable cke_editable_themed cke_contents_ltr cke_show_borders&quot;]' or . = '/html[1]/body[@class=&quot;cke_editable cke_editable_themed cke_contents_ltr cke_show_borders&quot;]')]</value>
+      <webElementGuid>251a5026-23e6-4f6a-ae6c-7ee49b3049f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

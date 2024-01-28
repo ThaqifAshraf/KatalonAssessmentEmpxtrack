@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to able to search for a feature and the results are displayed and record the result</description>
+   <name>TC07 - Search for Feature and Display Result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3a74a4b-25f2-4761-9942-6ef287d1208a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec3dfa26-4e76-4d02-9365-c8de6b55dd57</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ec3dfa26-4e76-4d02-9365-c8de6b55dd57</id>
+      <masked>false</masked>
+      <name>searches</name>
+   </variable>
+</TestCaseEntity>

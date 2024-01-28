@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_ShareSuggestion</name>
+   <tag></tag>
+   <elementGuidId>4375ced3-3a3c-4433-b9b1-dee6f108667d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;showHidePanel_v9('allChatItems');getCustomerFeedbackOnBreadcrumbBar_v9();return false;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d598a6dc-698e-40f2-af16-6dbc01633bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>60547026-90fd-4885-9ab3-2f4564276411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>li_gray_default btn btn-warning</value>
+      <webElementGuid>a0192b48-daff-4eee-893b-3266df488269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showHidePanel_v9('allChatItems');getCustomerFeedbackOnBreadcrumbBar_v9();return false;</value>
+      <webElementGuid>b3b606c7-b549-4d98-b3fd-3f87442b2ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>2b2afb97-ff13-4c8a-bb71-fd1d808a12c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;allChatItems&quot;)/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;chat-widget&quot;]/div[1]/a[@class=&quot;li_gray_default btn btn-warning&quot;]</value>
+      <webElementGuid>c7b4004d-b822-44df-83cf-780f886f2283</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;showHidePanel_v9('allChatItems');getCustomerFeedbackOnBreadcrumbBar_v9();return false;&quot;]</value>
+      <webElementGuid>6720a122-cb90-41fd-847a-de785ed62814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='allChatItems']/div[4]/div/div/a</value>
+      <webElementGuid>15d7e966-fc3b-4a39-80a3-33de975bb8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Open')])[2]</value>
+      <webElementGuid>aa4e7771-e64d-4704-93f1-2c5ccc8049df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start'])[1]/following::a[1]</value>
+      <webElementGuid>a960826e-9dfd-4c23-adb1-63765ff4b156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/preceding::a[2]</value>
+      <webElementGuid>46dd7fd7-3904-4d52-84da-892dec889fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[5]/preceding::a[3]</value>
+      <webElementGuid>deae29e0-2e0f-4f80-96d9-59d322bd5d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
+      <webElementGuid>8ebd1bc1-833b-49f8-bc77-d84b82ff2fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a</value>
+      <webElementGuid>a334144a-68f3-4e4a-8e4e-7185f2de447f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Open' or . = 'Open')]</value>
+      <webElementGuid>79589916-e1b3-431d-ab88-791bb306f25e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

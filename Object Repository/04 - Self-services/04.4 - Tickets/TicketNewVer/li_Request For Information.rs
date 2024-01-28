@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Request For Information</name>
+   <tag></tag>
+   <elementGuidId>05402ef1-2ffe-4523-b5c8-fc505cd9b108</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'Request For Information' or . = 'Request For Information')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>58061446-faa3-4103-b265-b71d4578a2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result</value>
+      <webElementGuid>f5c203b2-4a8d-4822-9b90-dbece079a6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>7b11a459-7fe2-4b9f-a8bf-a795bab66fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Request For Information</value>
+      <webElementGuid>cd8dfbc4-816c-4070-b66c-b4e57d4c01e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/li[@class=&quot;active-result&quot;]</value>
+      <webElementGuid>9525a301-b081-488a-9cf3-6b6c1de3e639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.4 - Tickets/Page_Home page/iframe_Self services_homePageFrame (2)</value>
+      <webElementGuid>08e96ed0-d4fd-4e7f-b033-6d26b046fa9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Request For Information' or . = 'Request For Information')]</value>
+      <webElementGuid>e8a98d32-a46c-4b8b-98ae-d203fbee7ce4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

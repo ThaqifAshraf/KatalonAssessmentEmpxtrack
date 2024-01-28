@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_EarnedLeave</name>
+   <tag></tag>
+   <elementGuidId>68a58e8a-fa2f-4ff8-9cd8-1822eb5fdbaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[@onclick='javascript:void(0);'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c0bc576f-13dd-4643-9fe3-7515c8f40d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Leave type</value>
+      <webElementGuid>bf65c223-12b5-4859-b5e9-0ca11ccbcb23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>54f11cf9-5e5f-44be-b9a8-987005503d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Earned Leave</value>
+      <webElementGuid>5c1d13c8-1c6c-4fe9-9cb0-7ac3ddbce092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;displayAll&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;personalprofile&quot;]/div[@id=&quot;renderTable-scroll&quot;]/table[@id=&quot;renderTableHeaderArray&quot;]/tbody[1]/tr[2]/td[1]</value>
+      <webElementGuid>e0666539-264e-41d3-ac25-9fb4bc88aae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.3 - Leave/Page_Home page/iframe__mycontent-right-frame (2)</value>
+      <webElementGuid>14970a76-28d0-4063-919b-865161ebae51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//td[@onclick='javascript:void(0);'])[3]</value>
+      <webElementGuid>22a9c4af-bbfe-4200-a449-560d1249d12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='renderTableHeaderArray']/tbody/tr[2]/td</value>
+      <webElementGuid>b1b31ee5-8df2-4f05-8ee8-5c3a7e628d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::td[1]</value>
+      <webElementGuid>617f789a-31d8-4d2d-98c3-d7eb7bb6028f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Dropdown'])[1]/following::td[1]</value>
+      <webElementGuid>ba0bd300-a882-454b-88bd-9b297364095b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Dropdown'])[2]/preceding::td[2]</value>
+      <webElementGuid>5446f4ff-f57a-487f-9065-b670711142e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/preceding::td[2]</value>
+      <webElementGuid>146d8384-3e9a-4bec-8135-fa10dca5622d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Earned Leave']/parent::*</value>
+      <webElementGuid>8ca6a309-5bd1-4b11-b0be-6c5a30210e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td</value>
+      <webElementGuid>89610c12-9433-4d53-bfc4-beef608fe13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Earned Leave' or . = 'Earned Leave')]</value>
+      <webElementGuid>dc4af4ce-fa98-46f6-b15c-c6be216b3ba7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

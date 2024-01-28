@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_List</name>
+   <tag></tag>
+   <elementGuidId>cc7d3137-b9cd-4d10-9c3e-0732d9473dcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v9-widget_icon > #menu123 > #panel-quick</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='panel-quick'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5bb0a05e-63b7-4580-b1dd-8d745db1af6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>panel-quick</value>
+      <webElementGuid>be22dd07-6e2a-491c-bd2e-9ca9c491b632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>instruction</value>
+      <webElementGuid>fc8d848f-c69d-4ce8-9c05-ea2f3f4b7d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select role... Each role may offer different functionality and employee span. Change to a suitable role and then click on a menu item.Employee  GoDashboardsMessage centerEvent calendarCompany directorySocial feedCompany policy documentsSettingsSelf servicesMy profileLeaveAttendanceHelp desk/Tickets</value>
+      <webElementGuid>6ddbb6f6-b197-4481-87d4-f4073fe56062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top_bg-gray_v9&quot;)/div[@class=&quot;col-md-9 col-xs-7 v9-widget&quot;]/div[@class=&quot;v9-widget_icon&quot;]/div[@id=&quot;menu123&quot;]/div[@id=&quot;panel-quick&quot;]</value>
+      <webElementGuid>df9caf14-0f87-4d77-8804-f526f9925bff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='panel-quick'])[8]</value>
+      <webElementGuid>96b0de11-8447-4b0a-99fd-68e883061600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='menu123']/div)[2]</value>
+      <webElementGuid>4d897be3-fcdc-4f5d-ae6f-96c040fb1677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[6]/following::div[7]</value>
+      <webElementGuid>79c055f6-cc20-4e08-96b5-23870a970579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[5]/following::div[10]</value>
+      <webElementGuid>601cc134-456e-46db-b5f1-2f6485190ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[8]/div</value>
+      <webElementGuid>16131533-400a-4214-92c4-7c1fe1380422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'panel-quick' and (text() = 'Select role... Each role may offer different functionality and employee span. Change to a suitable role and then click on a menu item.Employee  GoDashboardsMessage centerEvent calendarCompany directorySocial feedCompany policy documentsSettingsSelf servicesMy profileLeaveAttendanceHelp desk/Tickets' or . = 'Select role... Each role may offer different functionality and employee span. Change to a suitable role and then click on a menu item.Employee  GoDashboardsMessage centerEvent calendarCompany directorySocial feedCompany policy documentsSettingsSelf servicesMy profileLeaveAttendanceHelp desk/Tickets')]</value>
+      <webElementGuid>f7262c2e-3ee2-4094-bf38-e1ab55df0322</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

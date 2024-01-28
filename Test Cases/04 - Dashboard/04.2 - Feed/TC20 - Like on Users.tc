@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. USer has to successfully put a like on one of the users and record the result</description>
+   <name>TC20 - Like on Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26ba29e8-ea2f-4e5d-b818-fd445638df5a</testCaseGuid>
+</TestCaseEntity>

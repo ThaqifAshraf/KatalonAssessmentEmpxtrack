@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View in full page (1)</name>
+   <tag></tag>
+   <elementGuidId>10c1efed-c2e4-48bb-9c7f-921521eee738</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_View20in20full20page</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_View20in20full20page']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c0b93773-0f5d-47db-bdc5-03c283ca92cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_primary </value>
+      <webElementGuid>39760eb1-8ab3-4e08-85c6-fb9c86e9ed77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_View20in20full20page</value>
+      <webElementGuid>d6c5c81b-778a-4d09-acb5-e6186fcbac71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>14011d22-b647-4c9d-a679-aab010b0d407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>displayURL('runet.do?activity=submit&amp;mod=ViewEditEmployee&amp;secondaryVar=extendedDwrMode^displayViewEditEmployee,empId^1004825,setContextEmployeeId^1004825','');return false;</value>
+      <webElementGuid>ef81c273-1d50-4ff1-9aba-644508c9be03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View in full page</value>
+      <webElementGuid>6d894f25-454a-4d73-8220-67c5b87a9a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_View20in20full20page&quot;)</value>
+      <webElementGuid>e4609671-c1ef-48c2-beac-c12843dd25a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.2 - Feed/Page_Home page/iframe__mycontent-right-frame (1)</value>
+      <webElementGuid>d87e6503-241e-4c6a-83bc-516c8c607b01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btn_View20in20full20page']</value>
+      <webElementGuid>81620ad4-6e53-4ec2-a7db-fe100db4e695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-section-panel']/div/div/div[4]/div/div[2]/ul/li/a</value>
+      <webElementGuid>0f40f236-eaba-45ce-9ffe-47a38f11328d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View in full page')]</value>
+      <webElementGuid>6696618a-dea1-4a82-8bd2-6c6f0658d477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of joining: 01 Dec 2023'])[1]/following::a[2]</value>
+      <webElementGuid>b266e63e-4d26-4666-afb4-aaeaa28428af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/preceding::a[1]</value>
+      <webElementGuid>88bc0f30-9d8d-4ab9-a01d-215de9f5b888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btn_View20in20full20page', '&quot;', ')')])[1]/preceding::a[1]</value>
+      <webElementGuid>3520ca7b-58e4-4223-8857-aff4688a59ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View in full page']/parent::*</value>
+      <webElementGuid>e3dd03ee-b6f0-4f5e-a1dc-06e939d6acf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[4]</value>
+      <webElementGuid>47ea6fdb-cd1f-4ad3-8ae9-c581cc361b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>7a93a00f-bf30-44d7-b541-c3f0fd3ad89a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_View20in20full20page' and @href = 'javascript:void(0);' and (text() = 'View in full page' or . = 'View in full page')]</value>
+      <webElementGuid>7024295d-3cd5-4a73-810c-378b0efe155c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

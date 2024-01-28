@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_End day</name>
+   <tag></tag>
+   <elementGuidId>fff05499-eb74-408e-b3f9-1e910cc4a886</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.attendance-widget-endbtn-txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='attendance_content']/a[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94d0dcc5-005e-40df-ae87-abd2f1181f18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attendance-widget-endbtn-txt</value>
+      <webElementGuid>86207e3a-9221-42f3-923b-52a50942e053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> End day  </value>
+      <webElementGuid>d224ff1d-1367-48ca-8f23-44742f429d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attendance_content&quot;)/a[@class=&quot;attendance-widget-endbtn&quot;]/span[@class=&quot;attendance-widget-endbtn-txt&quot;]</value>
+      <webElementGuid>47325b5d-ec86-429d-bbed-41e4e0109ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.4 - Attendance/Page_Home page/iframe_Self services_homePageFrame (3)</value>
+      <webElementGuid>fb03bad6-26e0-46fd-a979-db8a17bf4dd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='attendance_content']/a[2]/span</value>
+      <webElementGuid>a7f74879-2af6-4b73-8479-603b870ff30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total hours'])[1]/following::span[2]</value>
+      <webElementGuid>977ade1c-ae7a-499f-9fe7-4f1d749a3b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave'])[1]/preceding::span[1]</value>
+      <webElementGuid>bfc8e4fe-c959-4f24-b857-7953c560036f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::span[1]</value>
+      <webElementGuid>04817162-8b9b-4ea7-bebb-2d9712ab852f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>5b1a7af8-b9d5-4eb2-a25f-f89581e61437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' End day  ' or . = ' End day  ')]</value>
+      <webElementGuid>a764de53-24d5-4017-88d4-6ca8fe2c2473</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

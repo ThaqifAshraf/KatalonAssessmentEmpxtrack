@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Monthly In-Time Statistics</name>
+   <tag></tag>
+   <elementGuidId>e224441e-5d23-4fdb-a952-6283e0462c5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#drawMyMonthlyAttendanceDashBoard_container > div.mgr-right > div > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='drawMyMonthlyAttendanceDashBoard_container']/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>d879c61e-e564-471d-91b9-66804bc3aabb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monthly In-Time Statistics</value>
+      <webElementGuid>565d58fa-218c-4a0c-b60b-af7e862d9468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawMyMonthlyAttendanceDashBoard_container&quot;)/div[@class=&quot;mgr-right&quot;]/div[1]/h3[1]</value>
+      <webElementGuid>a43a6da4-86f9-489b-9501-ae60c2725f37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawMyMonthlyAttendanceDashBoard_container']/div/div/h3</value>
+      <webElementGuid>d502756f-cec5-4cd3-928e-89723fac1bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View attendance dashboard'])[1]/following::h3[1]</value>
+      <webElementGuid>ef3c4533-01c3-4877-9afe-5b0a87d8eedb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End time'])[1]/following::h3[1]</value>
+      <webElementGuid>48a77850-0b4c-4a95-a961-4f08f39eb190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After 11:00'])[1]/preceding::h3[1]</value>
+      <webElementGuid>6f493acf-4000-401b-8ccb-9dc4dfa6727a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Monthly In-Time Statistics']/parent::*</value>
+      <webElementGuid>2587b189-006b-4587-b80b-cc2468ab45e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div[2]/div/div/h3</value>
+      <webElementGuid>21105821-6370-423d-87b3-bcd994fc0ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Monthly In-Time Statistics' or . = 'Monthly In-Time Statistics')]</value>
+      <webElementGuid>464d3633-d9f2-4996-9a50-cb040c4ba153</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully clicked on 'TODOS' to view MessageCenter and record the result</description>
+   <name>TC56 - Click on TODOS to view Message Center</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>333892fc-6152-447a-810d-6116c834c974</testCaseGuid>
+</TestCaseEntity>

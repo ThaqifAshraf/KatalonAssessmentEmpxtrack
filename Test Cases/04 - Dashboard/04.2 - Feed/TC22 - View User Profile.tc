@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully view one of the user's profile (3-dot button) and record the result</description>
+   <name>TC22 - View User Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d026cde3-7585-412e-9156-d34dbde45b06</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully login into Empxtrack and record the result</description>
+   <name>TC01 - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae01f056-fbf6-449b-bb64-3a69d0d744d9</testCaseGuid>
+</TestCaseEntity>

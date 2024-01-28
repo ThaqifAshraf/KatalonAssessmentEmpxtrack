@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7D0B5058228925E66776E90ED0FE20D2",
+  "keywordClasses": [
+    {
+      "name": "event.addTask",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

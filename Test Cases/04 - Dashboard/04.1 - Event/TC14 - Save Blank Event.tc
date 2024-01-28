@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is negative test case. User has to unsuccessfully save a blank event and record the result</description>
+   <name>TC14 - Save Blank Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6567ee1e-a1d4-41ff-890d-e54a6e426abb</testCaseGuid>
+</TestCaseEntity>

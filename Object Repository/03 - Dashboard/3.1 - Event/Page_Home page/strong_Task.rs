@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Task</name>
+   <tag></tag>
+   <elementGuidId>c90ca0cb-3730-4df9-81c3-d539e03285da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3.col-xs-5 > label > strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-dialog-empxtrack']/div/div/div/div[2]/div[2]/div/div[2]/label/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>a867d3d0-de8b-4048-a53c-9e986bccddf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Task</value>
+      <webElementGuid>93531bf8-5aef-472c-8eeb-a3bf683528c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-dialog-empxtrack&quot;)/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col-md-12 popup_new&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-3 col-xs-5&quot;]/label[1]/strong[1]</value>
+      <webElementGuid>c81118f1-4cea-4b8b-9c5a-8cfc5fbcb24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.1 - Event/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>126ce0fc-ba7d-4b6e-af3c-f501b8f232e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-dialog-empxtrack']/div/div/div/div[2]/div[2]/div/div[2]/label/strong</value>
+      <webElementGuid>4b66e319-b5ec-428e-ab2b-1f6500db1cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::strong[1]</value>
+      <webElementGuid>bdb77544-ba1d-4df1-90f5-f7723b290a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a meeting'])[1]/following::strong[2]</value>
+      <webElementGuid>54372076-b22d-454a-8991-c9fb88705aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[2]/preceding::strong[1]</value>
+      <webElementGuid>551e3559-62a9-420b-9c42-4cf82275abff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agenda'])[1]/preceding::strong[1]</value>
+      <webElementGuid>ef9454ab-b954-4723-9100-49ac9f751dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Task']/parent::*</value>
+      <webElementGuid>0f403408-c74e-4e3b-a8c2-e7be4ceadf2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/strong</value>
+      <webElementGuid>e3bc4e56-4c22-4382-b620-63ecb7d865e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Task' or . = 'Task')]</value>
+      <webElementGuid>d50d501e-5c2d-4d19-9d46-975979f21dd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

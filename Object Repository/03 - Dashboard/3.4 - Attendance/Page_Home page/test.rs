@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <elementGuidId>5dfd8fe8-9638-49c0-9d53-a7b6a13abcfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.attendance-widget-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;markTodayAttendanceOnHomepage('24/01/2024','1002042','B');return false;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>da0bface-5199-409c-9b7c-e0d54d758c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>352a7dd1-8788-4b0a-a7ad-f10ce0cb0a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>markTodayAttendanceOnHomepage('24/01/2024','1002042','B');return false;</value>
+      <webElementGuid>c777cbef-1f7e-4d68-9212-9cfafdd672c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attendance-widget-btn</value>
+      <webElementGuid>e8df6e85-89da-4d81-909b-ed62b034de25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add break   </value>
+      <webElementGuid>78ca1f10-4e68-4a22-930d-a1615c676d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attendance_content&quot;)/a[@class=&quot;attendance-widget-btn&quot;]</value>
+      <webElementGuid>ef602ab1-5aad-4b56-83f9-c859e359793f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.4 - Attendance/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>a456b89b-aabf-4e8c-9d5b-309f8a96aa79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;markTodayAttendanceOnHomepage('24/01/2024','1002042','B');return false;&quot;]</value>
+      <webElementGuid>c8b3a296-4aa1-4a4e-8b14-3132fd8fcca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='attendance_content']/a</value>
+      <webElementGuid>3a06200e-ddf1-474b-ba74-f2832a165902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total hours'])[1]/following::a[1]</value>
+      <webElementGuid>9995aa6b-476c-4cbf-9bf3-accf8907e5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/following::a[1]</value>
+      <webElementGuid>5892a913-263b-4c7b-967d-02cba4f5bd13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[11]</value>
+      <webElementGuid>0aec9e51-3e3e-4be1-92a3-984510e14516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/a</value>
+      <webElementGuid>02b4471b-d05a-400d-ae03-c0574bd24429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = ' Add break   ' or . = ' Add break   ')]</value>
+      <webElementGuid>5c701097-57ee-4017-97d1-7e0ddf25e317</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

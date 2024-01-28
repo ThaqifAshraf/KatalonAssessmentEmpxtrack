@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_listEmoji</name>
+   <tag></tag>
+   <elementGuidId>90cfa61f-3690-44f6-b705-21a1ae28b7ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-smile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='emoji']/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0b8897cc-59a2-4866-8aa5-9c716e7d64a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-smile</value>
+      <webElementGuid>6a5576a2-e951-4853-9dfa-151e3571ef99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buddy_box_1000012&quot;)/div[@class=&quot;col-md-12 comment-box&quot;]/div[@class=&quot;col-md-3&quot;]/div[@id=&quot;emoji&quot;]/div[1]/i[@class=&quot;fa fa-smile&quot;]</value>
+      <webElementGuid>e91b0f88-04be-4ce4-ac54-f8999801b909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.2 - Feed/Page_Home page/iframe_Self services_homePageFrame (2)</value>
+      <webElementGuid>9c45f210-e93b-416a-88a2-9d4b0a32cc6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='emoji']/div/i</value>
+      <webElementGuid>903f96c6-8f7e-49a2-aa4c-9e6c3b072d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div/i</value>
+      <webElementGuid>faa876ea-a0bd-49d3-ac88-33adab672c5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

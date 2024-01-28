@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to unsuccessfully applied a sick leave without a reason</description>
+   <name>TC32 - Apply Sick Leave without a Reason</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cacb9821-cf6e-4299-941c-6f78c22ad3b6</testCaseGuid>
+</TestCaseEntity>

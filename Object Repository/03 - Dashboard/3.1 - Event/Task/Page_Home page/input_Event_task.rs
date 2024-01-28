@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Event_task</name>
+   <tag></tag>
+   <elementGuidId>1304980a-b1e6-4c14-bc5e-9e766d78295c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3.col-xs-5 > label > input[name=&quot;task&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='col-md-3 col-xs-5']//input[@name='task']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0d126a74-7425-4413-82c9-efd0e3d586d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>b8ce1cc2-70e3-4adb-8c9a-fa11e18ed6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>task</value>
+      <webElementGuid>b0ab42c2-6d52-4253-970c-47fb58a8f75c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>addNewTaskEvent('1','24-01-2024','-1','');return false;</value>
+      <webElementGuid>c9569e49-98f4-4770-aab0-cd8a416323fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-dialog-empxtrack&quot;)/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col-md-12 popup_new&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-3 col-xs-5&quot;]/label[1]/input[1]</value>
+      <webElementGuid>6371839a-ddb3-4a04-96ff-e870f553eeee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.1 - Event/Task/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>3a4d9564-b078-41e0-8938-dd38f07fb59b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='task'])[2]</value>
+      <webElementGuid>73706fc3-54e1-4168-b13f-eeb7694ed566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-dialog-empxtrack']/div/div/div/div[2]/div[2]/div/div[2]/label/input</value>
+      <webElementGuid>2bbb6362-2019-4c93-a69c-92f24497eeed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/input</value>
+      <webElementGuid>993dbd25-c038-4410-95f0-190286c76ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @name = 'task']</value>
+      <webElementGuid>08d2e65d-556b-4a22-945a-5d2ef3b435b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

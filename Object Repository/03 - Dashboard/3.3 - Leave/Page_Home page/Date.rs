@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Date</name>
+   <tag></tag>
+   <elementGuidId>1a85c98d-02a7-4a71-a783-0b76de429985</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-datepicker-div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-datepicker-div']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>806edb11-7ade-482b-870f-590d79b48fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ui-datepicker-div</value>
+      <webElementGuid>4825dc17-b23c-48a8-bfc8-a8c352a7df83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all</value>
+      <webElementGuid>0dc3f0ae-7a89-4abb-baf2-fb29fea8354c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PrevNextJanFebMarAprMayJunJulAugSepOctNovDec192419251926192719281929193019311932193319341935193619371938193919401941194219431944194519461947194819491950195119521953195419551956195719581959196019611962196319641965196619671968196919701971197219731974197519761977197819791980198119821983198419851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025202620272028202920302031203220332034SuMoTuWeThFrSa 12345678910111213141516171819202122232425262728293031   </value>
+      <webElementGuid>e5b587dd-b699-4a4a-a9f9-916825e6a265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-datepicker-div&quot;)</value>
+      <webElementGuid>c80f7ed0-294a-40ed-89f2-7465ee290754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.3 - Leave/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>bb24933f-2da2-4f71-b023-3e5dc0ad1908</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='ui-datepicker-div']</value>
+      <webElementGuid>0df2bac0-56f9-426a-bac4-0cd9e701b0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ui-datepicker-div', '&quot;', ')')])[1]/following::div[10]</value>
+      <webElementGuid>2d95a62b-b90a-4ad6-b023-256bb72a99a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/following::div[18]</value>
+      <webElementGuid>bf8fcb3f-2a78-45a5-ab17-d66f7514d5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]</value>
+      <webElementGuid>2a8adf94-b117-47e7-b19a-a2c70b084b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'ui-datepicker-div' and (text() = 'PrevNextJanFebMarAprMayJunJulAugSepOctNovDec192419251926192719281929193019311932193319341935193619371938193919401941194219431944194519461947194819491950195119521953195419551956195719581959196019611962196319641965196619671968196919701971197219731974197519761977197819791980198119821983198419851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025202620272028202920302031203220332034SuMoTuWeThFrSa 12345678910111213141516171819202122232425262728293031   ' or . = 'PrevNextJanFebMarAprMayJunJulAugSepOctNovDec192419251926192719281929193019311932193319341935193619371938193919401941194219431944194519461947194819491950195119521953195419551956195719581959196019611962196319641965196619671968196919701971197219731974197519761977197819791980198119821983198419851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025202620272028202920302031203220332034SuMoTuWeThFrSa 12345678910111213141516171819202122232425262728293031   ')]</value>
+      <webElementGuid>894f7f8e-84be-459e-990c-5363aec32563</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

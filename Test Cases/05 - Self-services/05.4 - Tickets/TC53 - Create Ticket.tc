@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is positive test case. User has to successfully create a ticket and record the result</description>
+   <name>TC53 - Create Ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac1fa1d1-5824-4496-8ca4-a513f5edaab2</testCaseGuid>
+</TestCaseEntity>

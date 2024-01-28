@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Paste</name>
+   <tag></tag>
+   <elementGuidId>3a05dabb-8783-452b-8b89-823cd12186ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.cke_button_icon.cke_button__pastefromword_icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cke_17']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>705ac9f6-500b-44ff-abec-a6db79910ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cke_button_icon cke_button__pastefromword_icon</value>
+      <webElementGuid>33512470-2dd2-4211-ae2d-3ab724ad4301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>a627466e-47c0-46af-9687-1fdf8fb70029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cke_17&quot;)/span[@class=&quot;cke_button_icon cke_button__pastefromword_icon&quot;]</value>
+      <webElementGuid>5a716f47-9628-498c-8ef3-f8d80cf37b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.4 - Tickets/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>57400777-afdb-486a-b2a9-35bf004c757c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='cke_17']/span</value>
+      <webElementGuid>aa78e82b-8727-4218-8044-a247a5f2b3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/following::span[2]</value>
+      <webElementGuid>3e52ac74-f0d9-410c-a2ea-43686cf6c769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paste from Word'])[1]/preceding::span[1]</value>
+      <webElementGuid>f73387d5-07db-495d-b67b-06913b81f65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source'])[1]/preceding::span[5]</value>
+      <webElementGuid>949b6950-9c1f-457b-a08a-7ffc4e575a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/span</value>
+      <webElementGuid>6d8e3b67-ac59-419f-9cfa-a04a7d8212f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>edf08040-82fe-4422-813b-7aeeb00753fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

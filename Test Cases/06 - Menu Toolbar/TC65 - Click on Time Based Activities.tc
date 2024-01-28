@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to click on time based activities and record the result</description>
+   <name>TC65 - Click on Time Based Activities</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0e6fac9-1f10-4044-bb49-5a85ad1a3f32</testCaseGuid>
+</TestCaseEntity>

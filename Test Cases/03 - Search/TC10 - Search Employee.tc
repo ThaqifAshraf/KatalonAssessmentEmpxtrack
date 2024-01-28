@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User should be able to search for eomplyee by @prefix, followed by name</description>
+   <name>TC10 - Search Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4a51083-ed9a-4b0e-bca3-9706f7799843</testCaseGuid>
+</TestCaseEntity>

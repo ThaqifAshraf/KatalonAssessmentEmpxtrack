@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to unsuccessfully add any of the 5 details types(e.g Hobbies, Permanent address, Eduction, etc.) with empty information in the profile and record the result</description>
+   <name>TC43 - Add Details Types with Empty Information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c72303a7-144d-4f71-978e-559c8290e013</testCaseGuid>
+</TestCaseEntity>

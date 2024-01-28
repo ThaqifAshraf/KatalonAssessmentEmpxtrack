@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to unsuccessfully create a ticket with empty information and record the result</description>
+   <name>TC54 - Create Ticket with Empty Information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0fedc12-676c-4c6a-8296-a980ba1643a8</testCaseGuid>
+</TestCaseEntity>

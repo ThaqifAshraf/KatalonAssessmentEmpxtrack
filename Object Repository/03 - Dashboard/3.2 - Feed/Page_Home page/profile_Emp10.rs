@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>profile_Emp10</name>
+   <tag></tag>
+   <elementGuidId>342a3cfc-fa9d-43ab-b4cd-1e65715ea833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.font_link_x-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buddy_box_1000012']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b7abfc7-9bab-44cd-af0f-6a116b5e95d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font_link_x-small</value>
+      <webElementGuid>a67e7adb-71ca-44e6-aac3-666c403dbffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>emp 10</value>
+      <webElementGuid>4f01ccc6-3d36-48c0-8fb4-06004bf80b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buddy_box_1000012&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-7 col-xs-7&quot;]/div[@class=&quot;font_link_x-small&quot;]</value>
+      <webElementGuid>206ffe4b-10ea-45c1-9e6c-cb1f58605a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.2 - Feed/Page_Home page/iframe_Self services_homePageFrame (5)</value>
+      <webElementGuid>6ae4f565-ac72-480f-8c2f-47b34c89ef63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buddy_box_1000012']/div/div[2]/div</value>
+      <webElementGuid>58b0ec75-6c73-4561-bd9f-b116a14632ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What', &quot;'&quot;, 's on your mind ?')])[1]/following::div[6]</value>
+      <webElementGuid>ec719544-3b59-4779-9fe1-c773e684acf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feed'])[1]/following::div[12]</value>
+      <webElementGuid>5a5d9b98-8dc6-4e19-8922-2f2c038122c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warm welcome'])[1]/preceding::div[6]</value>
+      <webElementGuid>8fa9ea1d-6bf9-44fc-9a54-b35cc9175974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='emp 10']/parent::*</value>
+      <webElementGuid>f4630252-85b7-4a6d-9875-3dfa803c8930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>337099d4-4a02-46bb-b97f-71f04c2a5a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'emp 10' or . = 'emp 10')]</value>
+      <webElementGuid>48b035c4-707b-4e1a-98b0-a7b232c87725</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

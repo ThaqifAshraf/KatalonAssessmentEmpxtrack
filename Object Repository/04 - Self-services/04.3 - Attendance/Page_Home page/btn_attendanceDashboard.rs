@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_attendanceDashboard</name>
+   <tag></tag>
+   <elementGuidId>541ce398-1594-402d-88f1-cff9002b20bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dispMyAttendanceForToday > div.button-area > a.button-view</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;showEmpxPanelForURL('runet.do?activity=submit&amp;mod=MyAttendance&amp;cdmtHeaderBar=false', '_blank');return false;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a3b4fd0e-754b-4fbd-9416-1d3ab13156e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>acf397b7-f647-492c-974e-ae2ff8ba3674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showEmpxPanelForURL('runet.do?activity=submit&amp;mod=MyAttendance&amp;cdmtHeaderBar=false', '_blank');return false;</value>
+      <webElementGuid>f721d431-efd9-476e-b595-d6134bfe6155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>ad5672ba-25de-4327-9fd8-97c494162878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-view</value>
+      <webElementGuid>1abaf010-1a54-4a64-94cd-6b9811944201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View attendance dashboard</value>
+      <webElementGuid>867080cd-7cd4-40b8-9777-c6aab3bc60ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dispMyAttendanceForToday&quot;)/div[@class=&quot;button-area&quot;]/a[@class=&quot;button-view&quot;]</value>
+      <webElementGuid>08073e33-1066-4d08-9fdd-71cc539b78cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.3 - Attendance/Page_Home page/iframe_Self services_homePageFrame (4)</value>
+      <webElementGuid>3177d9aa-420c-4b82-a38f-2ad45f422242</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;showEmpxPanelForURL('runet.do?activity=submit&amp;mod=MyAttendance&amp;cdmtHeaderBar=false', '_blank');return false;&quot;]</value>
+      <webElementGuid>e0ee3639-57e3-4644-882c-436a451a540c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dispMyAttendanceForToday']/div[3]/a</value>
+      <webElementGuid>2083b191-002a-48ba-b930-74758677e538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View attendance dashboard')]</value>
+      <webElementGuid>d88b0258-e208-4468-84c0-266f09d8a5da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End time'])[1]/following::a[1]</value>
+      <webElementGuid>2742131e-0397-48fc-9bd4-2fa67921195f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start time'])[1]/following::a[1]</value>
+      <webElementGuid>6730b6ca-8c37-41ac-abfb-e91772b84afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly In-Time Statistics'])[1]/preceding::a[1]</value>
+      <webElementGuid>1bafdbac-72b3-45bf-a7ba-f11f8ecf296a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View attendance dashboard']/parent::*</value>
+      <webElementGuid>971d7f08-9608-450b-a612-b14207e16075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[13]</value>
+      <webElementGuid>e54e15dd-5fb3-4d72-8ca4-fa81f9803c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>9cb68910-fe70-472f-ad48-e6cb6aaefff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'View attendance dashboard' or . = 'View attendance dashboard')]</value>
+      <webElementGuid>f982a93f-bcbf-4047-96fe-2783211ecdaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully 'See All' attendance in full page and record the result</description>
+   <name>TC39 - See All Attendance in Full Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45890d5e-4b2e-44e7-83e2-432e12a4ee73</testCaseGuid>
+</TestCaseEntity>

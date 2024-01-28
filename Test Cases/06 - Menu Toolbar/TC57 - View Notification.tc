@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully view notifications and record the result</description>
+   <name>TC57 - View Notification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53786073-f1a3-4f1b-bd9b-36c00482329d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully searched a ticket ID and record the result</description>
+   <name>TC55 - Searched a Ticket ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa70d69b-18a6-4297-bb73-3a1fda7b248f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>appear_listComment</name>
+   <tag></tag>
+   <elementGuidId>1554b2f5-ae23-4c9f-a3eb-2941f8154361</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#viewFeedResponse_1000012_1000008 > div.col-md-12.comment-del</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='viewFeedResponse_1000012_1000008']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b80ae62e-9ad8-4fb6-8519-f76288b91196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 comment-del</value>
+      <webElementGuid>99ab66b2-63fc-444b-ab41-1a4f44187c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>emp 03  test    </value>
+      <webElementGuid>10967b21-a9da-41ff-a26e-ec863b16d310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewFeedResponse_1000012_1000008&quot;)/div[@class=&quot;col-md-12 comment-del&quot;]</value>
+      <webElementGuid>05bb4cb1-e269-41bc-9ad0-39e7ab50910c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.2 - Feed/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>b4b42d0e-debe-43c3-9074-f21649b4c47f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='viewFeedResponse_1000012_1000008']/div</value>
+      <webElementGuid>c2765ef6-874b-4ce4-b97b-67da9bf21562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[3]/div/div</value>
+      <webElementGuid>ce8dcab1-a296-433c-a943-0170842e93ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'emp 03  test    ' or . = 'emp 03  test    ')]</value>
+      <webElementGuid>277dc9f4-b365-4709-b066-e30c6b998482</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

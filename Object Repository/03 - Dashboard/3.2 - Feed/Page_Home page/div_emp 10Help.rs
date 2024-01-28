@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_emp 10Help</name>
+   <tag></tag>
+   <elementGuidId>398d1691-8cc5-45b2-9b26-6819eb1efa62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#display_page_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='display_page_title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7571b8a5-3efc-4682-950a-7e8ed7e61db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>display_page_title</value>
+      <webElementGuid>9131923c-7689-46c0-8528-66d67bfd22a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>emp 10  Help</value>
+      <webElementGuid>6c839907-a3e6-48e4-afba-e08d34cd7f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;display_page_title&quot;)</value>
+      <webElementGuid>f0ad7b60-9234-42c2-81cc-0760f86e1b98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='display_page_title']</value>
+      <webElementGuid>3c339d85-067c-4037-97ce-e7b81bf58662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show_hide_page_title']/div/div</value>
+      <webElementGuid>1f5b8ab9-0769-456f-8847-f2005fac72b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self services'])[1]/following::div[10]</value>
+      <webElementGuid>c3266b2d-b00f-402a-8127-92179d722e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboards'])[1]/following::div[13]</value>
+      <webElementGuid>f64dd08b-e5d5-4945-a4a0-4d401ef4145b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::div[5]</value>
+      <webElementGuid>a855df1b-9f43-4820-896a-56546ffbd4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div</value>
+      <webElementGuid>200c61e1-2612-47de-9108-3a6ebfd3070e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'display_page_title' and (text() = 'emp 10  Help' or . = 'emp 10  Help')]</value>
+      <webElementGuid>f5709a34-2905-4a95-9a3a-9fb5df00e549</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

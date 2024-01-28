@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to enter the wrong username into the input box and record the result</description>
+   <name>TC05 - Enter Wrong Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5935989-2bbc-4e78-8f77-b21d17460ec5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8331cb0e-45d9-4bcf-a7c7-45bd9e33d882</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8331cb0e-45d9-4bcf-a7c7-45bd9e33d882</id>
+      <masked>false</masked>
+      <name>wrongUsername</name>
+   </variable>
+</TestCaseEntity>

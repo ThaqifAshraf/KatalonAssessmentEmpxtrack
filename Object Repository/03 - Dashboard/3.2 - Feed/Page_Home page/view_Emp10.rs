@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>view_Emp10</name>
+   <tag></tag>
+   <elementGuidId>626f825f-871a-4f75-81e8-27f46bb8d9b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dispcontentlargefontname.col-md-12.col-xs-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myProfileView1']/div/div[2]/dispcontentlargefontname</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dispcontentlargefontname</value>
+      <webElementGuid>4411932d-542d-417d-9ba4-f96bc75f55b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 col-xs-12</value>
+      <webElementGuid>1e032a30-e37c-444b-ad84-d4ca750edbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> emp 10</value>
+      <webElementGuid>fc32a908-683e-444b-a930-a2fc0474744f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myProfileView1&quot;)/div[@class=&quot;col-md-12 master_profile-tempt&quot;]/div[@class=&quot;col-md-12&quot;]/dispcontentlargefontname[@class=&quot;col-md-12 col-xs-12&quot;]</value>
+      <webElementGuid>5b399a8b-716b-4e33-a57e-105a6c18d9e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myProfileView1']/div/div[2]/dispcontentlargefontname</value>
+      <webElementGuid>608b7bd2-ccd0-42a5-b33c-1cb7bc336c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::dispcontentlargefontname[1]</value>
+      <webElementGuid>9e1c2964-2712-4915-a253-265a2ee0ae63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='empxt.latihan10@yopmail.com'])[1]/preceding::dispcontentlargefontname[1]</value>
+      <webElementGuid>d36f1e10-e9c0-4ad7-afee-8504013376a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/preceding::dispcontentlargefontname[1]</value>
+      <webElementGuid>02fbb787-0a39-4aa4-b9c3-e991104a96bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dispcontentlargefontname</value>
+      <webElementGuid>90cd2607-b967-472c-88ef-f02be751766f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dispcontentlargefontname[(text() = ' emp 10' or . = ' emp 10')]</value>
+      <webElementGuid>1d0a8d2d-f540-4f05-a385-a0489bc2a46c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully resume work and record the result</description>
+   <name>TC35 - Resume Work</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2b9d16a-f015-4a1b-91c8-41c98c0d591b</testCaseGuid>
+</TestCaseEntity>

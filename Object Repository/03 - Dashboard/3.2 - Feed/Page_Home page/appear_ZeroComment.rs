@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>appear_ZeroComment</name>
+   <tag></tag>
+   <elementGuidId>b06351e0-1435-43a5-9922-26da11a9e934</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap-dialog-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='320891ae-46f6-4955-9433-d2a54f4ca226']/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>781fe414-100f-4300-bddb-82734a23ef13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-dialog-message</value>
+      <webElementGuid>4c327f3e-4f34-476f-b597-4648988d6ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter the comment</value>
+      <webElementGuid>c375f3c0-bf4e-4dec-9189-64d9aa25c111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;320891ae-46f6-4955-9433-d2a54f4ca226&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;bootstrap-dialog-body&quot;]/div[@class=&quot;bootstrap-dialog-message&quot;]</value>
+      <webElementGuid>49c21ad1-a753-492b-95ca-5d8b91471e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.2 - Feed/Page_Home page/iframe_Self services_homePageFrame (4)</value>
+      <webElementGuid>ef7d179c-a14f-4ca2-972a-7de46206a2cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='320891ae-46f6-4955-9433-d2a54f4ca226']/div/div/div[2]/div/div</value>
+      <webElementGuid>ebadf6b7-0c77-4a3c-8ef7-613bf054ba57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::div[3]</value>
+      <webElementGuid>c3924171-103a-456e-b252-fcc71b0f3479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[4]/following::div[4]</value>
+      <webElementGuid>486f1035-8e05-4965-9864-9f96c570d243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[1]</value>
+      <webElementGuid>49efd126-a28e-4733-8e5f-685fb058fb24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter the comment']/parent::*</value>
+      <webElementGuid>08a1d1c6-fea6-46a6-b8d7-60a694bb5e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div/div</value>
+      <webElementGuid>3cea464a-434b-4ed6-a13f-74283ef99d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please enter the comment' or . = 'Please enter the comment')]</value>
+      <webElementGuid>664db07d-8b60-4d72-bed8-0fe9f9498fe5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative rest case. USer has to unsuccessfully save a blank task into the system and record the result</description>
+   <name>TC16 - Save Blank Task</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfabd470-f640-45aa-a36e-10235c4fde83</testCaseGuid>
+</TestCaseEntity>

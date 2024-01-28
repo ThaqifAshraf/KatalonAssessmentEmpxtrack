@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Create ticket</name>
+   <tag></tag>
+   <elementGuidId>cada38f6-dcab-4a28-a4bd-f39b23bcb8f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_Create20ticket</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_Create20ticket']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>479a92b7-ff5c-4225-ae7e-da0447797184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_primary </value>
+      <webElementGuid>99e15ebb-c602-479f-bfdb-56a412c58ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_Create20ticket</value>
+      <webElementGuid>487b8fcb-9a0f-45b5-96cf-275de3c16036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>addNewTicket();</value>
+      <webElementGuid>426c9f88-804f-4fb7-a60c-ff3bbe3d9baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create ticket</value>
+      <webElementGuid>bcc92450-4251-474e-98b3-4044b1da3d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_Create20ticket&quot;)</value>
+      <webElementGuid>b4d737fa-bf30-45e7-9c4d-9c3597fc2908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.4 - Tickets/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>60546dcf-bccf-4f14-8461-173cc866d370</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btn_Create20ticket']</value>
+      <webElementGuid>5f981cd1-476e-488a-a8fd-2890d9545b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-section-panel']/div/div/div[3]/div/div[2]/ul/li/a</value>
+      <webElementGuid>ca8e6d1a-d1f2-492b-9bdb-2e7d62cbc170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create ticket')]</value>
+      <webElementGuid>9b9e3875-13d5-438b-8e7a-d13c49627bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last'])[1]/following::a[1]</value>
+      <webElementGuid>756f3e96-bc30-4f4b-bff8-6f52f4fdd1ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::a[2]</value>
+      <webElementGuid>65606ae3-b3fe-4906-896d-eaae63db4504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View in full page'])[1]/preceding::a[1]</value>
+      <webElementGuid>bb8859f2-4a3e-4065-98f1-8bbe97a389f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/preceding::a[2]</value>
+      <webElementGuid>139b1fe6-1d1f-410f-9e1e-4a1af0f5f605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create ticket']/parent::*</value>
+      <webElementGuid>674219ee-d0ab-4aa1-a058-4b65a49eee5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>21bb44ec-a97e-4c49-84a3-0124e341ba22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_Create20ticket' and (text() = 'Create ticket' or . = 'Create ticket')]</value>
+      <webElementGuid>8806bf04-1dfd-43f4-834e-7a49f5bf012e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

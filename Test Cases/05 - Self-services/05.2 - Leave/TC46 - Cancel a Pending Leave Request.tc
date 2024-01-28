@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully cancel a pending leave request and record the result</description>
+   <name>TC46 - Cancel a Pending Leave Request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>981702de-661b-4c16-b2ac-21a21b47a55d</testCaseGuid>
+</TestCaseEntity>

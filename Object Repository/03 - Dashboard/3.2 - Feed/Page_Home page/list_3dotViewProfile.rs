@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_3dotViewProfile</name>
+   <tag></tag>
+   <elementGuidId>3d4d174c-62ae-4c0e-9a4d-eeedab62be3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3.col-xs-3.buddy-action.pull-right > span > #panel > div.hide-menu-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='panel']/div)[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>874cbd2a-24b3-452e-ab60-d73a2220d4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hide-menu-1</value>
+      <webElementGuid>6201f181-cebc-48e7-8a1d-738ea59ec606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  View Profile</value>
+      <webElementGuid>6429c016-a282-476b-a0f8-d511e28a6b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buddy_box_1000012&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-3 col-xs-3 buddy-action pull-right&quot;]/span[1]/div[@id=&quot;panel&quot;]/div[@class=&quot;hide-menu-1&quot;]</value>
+      <webElementGuid>0072b762-71c6-4973-93f4-ee98adb3355d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.2 - Feed/Page_Home page/iframe_Self services_homePageFrame (5)</value>
+      <webElementGuid>1d7ed654-1b97-43fa-b349-3ff545cba8fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='panel']/div)[5]</value>
+      <webElementGuid>1ead4d36-5a1b-4e6d-8f50-df327f53f8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='emp 10'])[1]/following::div[4]</value>
+      <webElementGuid>6cfb0442-823a-469e-b80e-d8fd2e7ae29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What', &quot;'&quot;, 's on your mind ?')])[1]/following::div[10]</value>
+      <webElementGuid>9cddf468-6863-41c0-bf7b-d5bddd653cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warm welcome'])[1]/preceding::div[2]</value>
+      <webElementGuid>b33b8e7d-d5e8-4a42-bce0-649e270b5924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/div/div</value>
+      <webElementGuid>06cdba84-e3b0-4f7a-8677-ef91a7f713f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  View Profile' or . = '  View Profile')]</value>
+      <webElementGuid>003090f3-bb8a-42d5-8dbd-332fed2e02d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

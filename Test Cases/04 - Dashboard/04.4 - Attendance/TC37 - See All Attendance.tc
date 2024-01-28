@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to 'See All' attendance and record the result</description>
+   <name>TC37 - See All Attendance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a277a60c-0d68-4dac-bb83-456750aecb65</testCaseGuid>
+</TestCaseEntity>

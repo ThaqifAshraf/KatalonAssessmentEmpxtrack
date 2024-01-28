@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Menu</name>
+   <tag></tag>
+   <elementGuidId>c26d5555-b20a-4ed0-948a-354cb90cecc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu123_anchor > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu123_anchor']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>38c6ab2f-37f3-43ff-8961-419ed4845b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/v10/menu-v9.png</value>
+      <webElementGuid>1ebad0b5-9193-4aa7-b805-cf03644261d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu123_anchor&quot;)/img[1]</value>
+      <webElementGuid>2c865e68-c234-44f0-8e93-3c15896c7978</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu123_anchor']/img</value>
+      <webElementGuid>e36a7931-550e-4a0d-a5c1-9efaf67f52e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a/img</value>
+      <webElementGuid>db358adb-fb30-496d-9836-9b4d12f65bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/v10/menu-v9.png']</value>
+      <webElementGuid>213a9e51-d7ea-4e53-84f8-ed12262b489d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

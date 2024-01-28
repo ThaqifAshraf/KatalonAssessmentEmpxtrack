@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Self services</name>
+   <tag></tag>
+   <elementGuidId>72dcaf4e-f110-411b-bb4e-3ea0916b0e0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#transact</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='transact']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4468312-89cb-4d69-ba09-2feceeb9ed0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transact</value>
+      <webElementGuid>88cdb6ec-ec6f-4766-8da7-946d0fef481f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v10-side-menu-item </value>
+      <webElementGuid>a71b3a96-d278-426c-8e3b-86523e836682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>displayURL( 'runet.do?activity=submit&amp;mod=transact');return false;</value>
+      <webElementGuid>503c123e-6101-4e27-8eec-4c39bba6da6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Self services</value>
+      <webElementGuid>f3abcbc1-55de-43f1-9f4d-92aa9f2615b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transact&quot;)</value>
+      <webElementGuid>0d4d4002-d2da-4f7e-afd1-ada1638d7a8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='transact']</value>
+      <webElementGuid>ea9b9827-2a67-4544-a1d0-dc354761e99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left_side_menus']/div/div[2]</value>
+      <webElementGuid>4f4a788b-2a2d-4f35-92a5-780505cd237d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboards'])[1]/following::div[1]</value>
+      <webElementGuid>12fa094f-0e8e-4d5f-9888-ee4b8a70d796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/preceding::div[35]</value>
+      <webElementGuid>7c478a0d-5786-42d6-9bc9-d32f8ad9d013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>8986defc-9b3b-4725-bec2-3389a07cbe70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'transact' and (text() = 'Self services' or . = 'Self services')]</value>
+      <webElementGuid>cf5845ae-fd87-473a-8a51-9da5038b569b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

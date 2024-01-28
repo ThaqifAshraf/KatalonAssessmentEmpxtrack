@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scroll_Tickets</name>
+   <tag></tag>
+   <elementGuidId>de18eeba-47b7-4745-bd5f-7d5a53360aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#drawMonthlyInTimeStatisticsChart > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly In-Time Statistics'])[1]/following::div[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a5afbd3-f7c9-48c4-b966-8ff0619be5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>After 11:00100%ToppingSlicesTime0Before 9:0009:00-10:00010:00 - 11:000After 11:001After 11:00</value>
+      <webElementGuid>c0e8db61-6950-4d87-98ee-1ed238aa6ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawMonthlyInTimeStatisticsChart&quot;)/div[1]</value>
+      <webElementGuid>7093017f-ef19-4b53-8aa0-dec5bb9541ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.3 - Attendance/Page_Home page/iframe_Self services_homePageFrame (5)</value>
+      <webElementGuid>5918a85d-3a8c-4b9b-a8ed-c9afddb50f5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawMonthlyInTimeStatisticsChart']/div</value>
+      <webElementGuid>30249ca7-5dc9-4d52-af43-d3f8ab4a4728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly In-Time Statistics'])[1]/following::div[10]</value>
+      <webElementGuid>6eecc141-cab3-427b-a618-00655cce4d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[3]/div/div</value>
+      <webElementGuid>a19fad4e-e4ad-4533-bc13-e3a89d84f2ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'After 11:00100%ToppingSlicesTime0Before 9:0009:00-10:00010:00 - 11:000After 11:001After 11:00' or . = 'After 11:00100%ToppingSlicesTime0Before 9:0009:00-10:00010:00 - 11:000After 11:001After 11:00')]</value>
+      <webElementGuid>27213125-bb6f-4375-87d1-30d6dde2eeee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

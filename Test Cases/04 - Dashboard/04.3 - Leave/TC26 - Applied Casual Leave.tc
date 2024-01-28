@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfullt apply a casual leave and record the result</description>
+   <name>TC26 - Applied Casual Leave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a322c3cb-7260-4d3d-af43-438e95591a40</testCaseGuid>
+</TestCaseEntity>

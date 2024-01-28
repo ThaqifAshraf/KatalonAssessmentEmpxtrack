@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to be able to navigate to the corresponding feature correctly upon clickin on one of the search results</description>
+   <name>TC08 - Navigate the feature and Click the Search Result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ab19b69-b585-4ca2-bdf3-0e1a5e0c5d07</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2893d6d-4358-4d82-ae29-7f247baa32b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2893d6d-4358-4d82-ae29-7f247baa32b6</id>
+      <masked>false</masked>
+      <name>searches</name>
+   </variable>
+</TestCaseEntity>

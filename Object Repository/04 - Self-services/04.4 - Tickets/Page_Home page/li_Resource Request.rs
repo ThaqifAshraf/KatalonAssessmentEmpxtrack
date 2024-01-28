@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Resource Request</name>
+   <tag></tag>
+   <elementGuidId>85f85281-aaad-42b1-9e70-6eeb4ce6d9e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'Resource Request' or . = 'Resource Request')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>de5691c2-3eb5-445f-b987-cc8fd6feaab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result</value>
+      <webElementGuid>8bc6dc14-32ff-47b4-b800-32b8833c611a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>72e43fee-c23a-441a-884d-628818b2f85b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resource Request</value>
+      <webElementGuid>5dfdad48-cd60-45a9-b023-aa380d3bbf46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/li[@class=&quot;active-result&quot;]</value>
+      <webElementGuid>4d7572e1-5cde-4826-87e3-77e2fa4e08c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.4 - Tickets/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>b9fdb33b-4b1c-47af-bfd7-0211524f321c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Resource Request' or . = 'Resource Request')]</value>
+      <webElementGuid>d5f4fd8f-0a2a-4cc7-b943-7d7173396a68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

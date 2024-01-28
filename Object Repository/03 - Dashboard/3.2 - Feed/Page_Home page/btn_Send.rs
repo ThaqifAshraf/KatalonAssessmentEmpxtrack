@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Send</name>
+   <tag></tag>
+   <elementGuidId>95a0bf3b-c854-4811-86d9-c70fffa7c370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-paper-plane</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='jsFunUpdate_-1']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c85b8518-9e07-4fbf-9fe7-94075de2e3ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-paper-plane</value>
+      <webElementGuid>3a8489a5-1a1a-4fe6-a879-f37c9b8bf5e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buddy_box_1000012&quot;)/div[@class=&quot;col-md-12 comment-box&quot;]/div[@class=&quot;col-md-3&quot;]/a[@id=&quot;jsFunUpdate_-1&quot;]/i[@class=&quot;fa fa-paper-plane&quot;]</value>
+      <webElementGuid>441c686d-4c64-430d-879c-f6e849b6db82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.2 - Feed/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>2760f668-bd99-4b13-af36-4fda12b5d7df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='jsFunUpdate_-1']/i</value>
+      <webElementGuid>815e6247-a1c7-494c-8289-4c5d134bd1d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/a/i</value>
+      <webElementGuid>84777631-36e9-4f2c-99ac-23ae31febac1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

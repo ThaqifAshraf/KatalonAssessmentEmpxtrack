@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully view profile in full page and record the result</description>
+   <name>TC41 - View Profile in Full Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f26e6a-4442-42e7-97f2-3d030cb2ac84</testCaseGuid>
+</TestCaseEntity>

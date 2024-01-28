@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully view leave transactions and record the result</description>
+   <name>TC45 - View Leave Transactions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a10f8b2a-e928-4f4a-b3a6-57efaaf63805</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Computer Hardware</name>
+   <tag></tag>
+   <elementGuidId>88c7cc6d-1403-41f0-98e3-bf458ab6ed17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'Computer Hardware' or . = 'Computer Hardware')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5a8755df-5c68-4eda-a60e-8ac644ac7356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result</value>
+      <webElementGuid>18dbdcef-b712-4bbb-8277-39350787158c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>4a4c7c2c-1e84-4e8e-b282-0c18ed5b1401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Computer Hardware</value>
+      <webElementGuid>b3f96a2f-6bd6-4012-9eb1-ff8c34cac2a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/li[@class=&quot;active-result&quot;]</value>
+      <webElementGuid>7a918906-59bb-4cea-8820-46b680c3e708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.4 - Tickets/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>bdfd9c18-6b50-42f4-ab4d-72270e051ad2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Computer Hardware' or . = 'Computer Hardware')]</value>
+      <webElementGuid>8d820d33-37e4-41c3-b890-353823902849</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scroll_AttendanceDashboard</name>
+   <tag></tag>
+   <elementGuidId>e74781c2-7386-4418-b6ae-941a06269f4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='drawMyMonthlyAttendanceDashBoard']/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>7644f687-c4e1-471b-af23-ce07327c8ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Jan 2024 </value>
+      <webElementGuid>e231027f-4fb7-4718-b066-b9c0f39d6807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawMyMonthlyAttendanceDashBoard&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;calh&quot;]/h4[1]</value>
+      <webElementGuid>faa30a1a-4fc5-4311-ba0f-3f8246a30761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.3 - Attendance/Page_Home page/iframe_Self services_homePageFrame (3)</value>
+      <webElementGuid>9191d59b-42bb-4b8d-9858-25edff8c3ac9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawMyMonthlyAttendanceDashBoard']/div/div/h4</value>
+      <webElementGuid>6057366f-10cc-41c3-823d-82f5c22982f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly In-Time Statistics'])[1]/following::h4[1]</value>
+      <webElementGuid>a56abcbf-d67f-4d56-9487-3d1b1a94c213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View attendance dashboard'])[1]/following::h4[1]</value>
+      <webElementGuid>feabc385-7f2c-425a-93e0-45d053cdf1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After 11:00'])[1]/preceding::h4[1]</value>
+      <webElementGuid>a88732e1-1ea9-4a79-a109-60091bf9649b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topping'])[1]/preceding::h4[1]</value>
+      <webElementGuid>1f18d718-132b-49bd-acf3-1c87c75a9cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>7781efa1-c40d-4af1-b78b-f41cb3e2e9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = ' Jan 2024 ' or . = ' Jan 2024 ')]</value>
+      <webElementGuid>5fcd19b4-f85f-4d03-8174-543b20dd9775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has tot enter an invalid company ID into the text area and record the result</description>
+   <name>TC06 - Enter Wrong Company ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aac6d993-03c3-4a81-97ed-07c0f9b559bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e89b917f-5b5c-4bb4-a8f4-36f811993f85</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e89b917f-5b5c-4bb4-a8f4-36f811993f85</id>
+      <masked>false</masked>
+      <name>wrongBussinessID</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SubmitSuggestion</name>
+   <tag></tag>
+   <elementGuidId>4a9043c2-fd30-4af8-8d01-7a39a53d3b09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_Submit20suggestion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_Submit20suggestion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>58abe67c-0274-4bad-925b-da5db7ef70fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_primary </value>
+      <webElementGuid>c549cc99-73d6-483a-a0cc-59724e01b1d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_Submit20suggestion</value>
+      <webElementGuid>ef59177f-9963-40aa-ab75-6e8a9d7c77a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:saveEmpxtrackFeedback_v9('fromBreadcrumbBar');return false;</value>
+      <webElementGuid>5683b4b9-c274-45d1-a79a-9612ce5f7c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit suggestion</value>
+      <webElementGuid>41de5af7-7932-40af-a0f0-4c576740af0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_Submit20suggestion&quot;)</value>
+      <webElementGuid>a01b16ca-a689-4967-8178-d10691c992ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btn_Submit20suggestion']</value>
+      <webElementGuid>24ad5e7e-eef1-43ac-83f1-cc914bd7209b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-dialog-empxtrack']/div/div/div/div[5]/div/div[2]/ul/li/a</value>
+      <webElementGuid>b0a6e168-f0e0-4c59-84ed-3485e567e83e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Submit suggestion')]</value>
+      <webElementGuid>9ad5c7c4-72ef-468c-bdce-e3c1ade79d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check for anonymous submit'])[1]/following::a[1]</value>
+      <webElementGuid>4824768a-39ae-4a17-8e8e-c441aa0895f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share a suggestion'])[1]/following::a[1]</value>
+      <webElementGuid>78c20b29-8f57-44f5-ab46-5411c4eb713e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::a[1]</value>
+      <webElementGuid>c7de475d-14fe-450c-85ca-750906533e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/preceding::a[2]</value>
+      <webElementGuid>6800f61c-63d1-4be2-81ee-420bc2120413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit suggestion']/parent::*</value>
+      <webElementGuid>82c5a1fe-3df0-49c2-9a11-28318465362a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/ul/li/a</value>
+      <webElementGuid>88fa852c-3cd7-4782-aa32-f0ca11a14d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_Submit20suggestion' and (text() = 'Submit suggestion' or . = 'Submit suggestion')]</value>
+      <webElementGuid>ac6c5451-0401-4d46-ad5f-e8c6514a6af5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to leave feedback with empty information and record the result</description>
+   <name>TC62 - Leave Feedback with Empty Information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9542ed8b-6d97-46d4-942b-f0fc063bdea0</testCaseGuid>
+</TestCaseEntity>

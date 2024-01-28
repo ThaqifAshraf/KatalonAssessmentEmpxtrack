@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AddBreak-Resume</name>
+   <tag></tag>
+   <elementGuidId>41d06d65-ee1d-41cf-b3d5-aefc5cc0a9ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.attendance-widget-btn-txt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='attendance_content']/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Add break   ' or . = ' Add break   ') and @ref_element = 'Object Repository/03 - Dashboard/3.4 - Attendance/Page_Home page/iframe_Self services_homePageFrame (2)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ba441c59-59b8-41bf-9698-cf40f6ebcde2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attendance-widget-btn-txt</value>
+      <webElementGuid>f343c74e-89fd-48b2-822f-2eed9b940f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add break   </value>
+      <webElementGuid>76aa56d1-5583-4fb7-95e7-2eb2499ed812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attendance_content&quot;)/a[@class=&quot;attendance-widget-btn&quot;]/span[@class=&quot;attendance-widget-btn-txt&quot;]</value>
+      <webElementGuid>aa241275-62aa-458d-a5e0-63b6ac47c5fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/03 - Dashboard/3.4 - Attendance/Page_Home page/iframe_Self services_homePageFrame (2)</value>
+      <webElementGuid>99639a32-958a-4d64-9a19-15d0df7ed9d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='attendance_content']/a/span</value>
+      <webElementGuid>d5090b25-706b-4783-ba05-9a51da8179a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total hours'])[1]/following::span[1]</value>
+      <webElementGuid>e0ae2a14-d2f2-4ef6-896b-4951c16aee7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/following::span[1]</value>
+      <webElementGuid>164c6098-b657-43fc-a366-181a34cdf497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave'])[1]/preceding::span[2]</value>
+      <webElementGuid>2408c659-22d0-44fd-917e-f84595438ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/span</value>
+      <webElementGuid>f5848933-c6d7-483a-9ee4-6cb82841ed0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Add break   ' or . = ' Add break   ')]</value>
+      <webElementGuid>12d1e715-f772-4204-82b1-8760264ca7b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User have to successfully trigger a break time (Add Break) and record the result</description>
+   <name>TC34 - Trigger Break Time</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62cdd7ca-93fe-45d7-8dec-5a291ea2061f</testCaseGuid>
+</TestCaseEntity>

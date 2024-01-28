@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User successfully view Leave Policy and record the result</description>
+   <name>TC47 - View Leave Policy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8cd41e3-3ca7-4b26-b72a-44c48db52350</testCaseGuid>
+</TestCaseEntity>

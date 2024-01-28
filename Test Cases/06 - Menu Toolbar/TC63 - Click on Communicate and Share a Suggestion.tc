@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully click on communicate and share a suggestion and record the result</description>
+   <name>TC63 - Click on Communicate and Share a Suggestion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06d91fba-12b4-499d-9dee-88b86cb2b77d</testCaseGuid>
+</TestCaseEntity>

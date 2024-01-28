@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User have to successfully regularize attendance and record the result</description>
+   <name>TC48 - Regularize Attendance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ab470ba-5ebb-445a-8ec5-2f0ab451ed10</testCaseGuid>
+</TestCaseEntity>

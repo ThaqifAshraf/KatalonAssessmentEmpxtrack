@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnviewChanges</name>
+   <tag></tag>
+   <elementGuidId>b6a89fad-e559-4343-ad30-7040cf6cbab9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_0']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4d65ae7d-6b37-4968-83d9-b037c81ae0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3c384dcc-4329-410d-bda2-6e08950d5ccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-eye</value>
+      <webElementGuid>07be1bb7-2a64-4ad8-a77f-d5b477f795d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionItemsInSlideDropDownOptions&quot;)/a[@id=&quot;btn_0&quot;]/i[@class=&quot;fas fa-eye&quot;]</value>
+      <webElementGuid>ced53b30-ec5c-4587-b4e1-ae136fa666c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Self-services/04.1 - Profile/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>95736a5c-3d0f-4cf9-9021-f0511f8b16c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btn_0']/i</value>
+      <webElementGuid>99eb9601-3646-4dd9-8fca-b3b15394f588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>49701585-efa4-4fd1-92bd-01fe8ba99f4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
